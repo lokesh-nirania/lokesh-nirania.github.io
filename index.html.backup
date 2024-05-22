@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lokesh Kumar Nirania - Software Engineer</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; }
+        h1 { color: #007bff; }
+        h2 { color: #333; }
+        p { line-height: 1.6; }
+        ul { list-style: disc; padding-left: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>LOKESH KUMAR NIRANIA</h1>
+    <h2>Software Engineer</h2>
+
+    <p>
+        +91 94610 15543 | lokesh.nirania@outlook.com | 
+        <a href="https://www.linkedin.com/in/lokeshnirania" target="_blank">LinkedIn</a> |
+        Gurgaon, India
+    </p>
+
+    <h2>About Me</h2>
+    <p>
+        I am a Full Stack Software Engineer with 3 years of experience currently working for IDFC First Bank via Xebia. My work includes backend development developing REST APIs in Golang and writing contract tests for microservices compatibility. My skills include working with Kafka, Oracle SQL, Redis, Docker, and the CI/CD tool GoCD, as well as basic understanding of the Kubernetes. Additionally, I have experience with ReactJS and React Native for UI development. I am always eager for new challenges and strive to become a person who provides and develops optimized and scalable solutions.
+    </p>
+
+    <h2>Experience</h2>
+
+    <h3>IDFC First Bank (via Xebia) 2021 - Present</h3>
+    <ul>
+        <li>Developed REST APIs using the Gin framework in Golang, leveraging Go-routines for task parallelization, utilized Oracle SQL and MongoDB for database storage and Redis for caching.</li>
+        <li>Implement K6 performance pipeline to ensure code is optimized and scalable.</li>
+        <li>Integrated NSDL and MF-Central services using APIs, callbacks, Web Sockets, and Kafka messaging.</li>
+        <li>Developed the e-KYC flow and Mutual fund platform where users can complete their online KYC with Digilocker and purchase/redeem their mutual funds using ReactJS for UI.</li>
+        <li>Developed Demat Account Opening and IPO Application platform where users can open demat account online and apply for IPOs using IDFC or any other demat accounts.</li>
+        <li>Created Loans Against Investment platform enabling user to apply for loans digitally.</li>
+        <li>Implemented a custom stage-based retry queue for Kafka messages.</li>
+        <li>Authored migration scripts with Apache Airflow to transfer data from SQL to MongoDB.</li>
+    </ul>
+
+    <h3>Paatha (Internship) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2020 – 2021</h3>
+    <ul>
+        <li>Implemented online course platform using Open edX with S3 as storage and deployment on AWS.</li>
+        <li>Multi languages support where educators can create course in local languages.</li>
+    </ul>
+
+    <h2>Education</h2>
+
+    <h3>IIT Dharwad, Karnataka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017 – 2021</h3>
+    <p>B. Tech in Computer Science and Engineering</p>
+
+    <h2>Technical Skills</h2>
+
+    <ul>
+        <li>Backend: Golang Gin, NodeJS, Kafka, Airflow (Python)</li>
+        <li>Frontend: ReactJS, React Native, TypeScript, HTML, CSS</li>
+        <li>Database: MongoDB, Oracle SQL (Liquibase for migration)</li>
+        <li>Cloud: GoCD, Docker, AWS, S3, Kubernetes</li>
+    </ul>
+</body>
+</html>
